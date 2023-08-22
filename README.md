@@ -1,5 +1,3 @@
-<img src="Profile.jpg" alt="Profile" title="Profile" align="left" width="200" height="200" />
-
 ---
 
 ### Welcome to my GitHub Page!
