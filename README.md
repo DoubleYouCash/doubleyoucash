@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="Profile.png" alt="Profile" title="Profile" align="left" width="200" height="200" />
 
-<!--
-**DoubleYouCash/doubleyoucash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Welcome to my GitHub Page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Wyatt Duberstein, and I am a Software Engineer with a Bachelors of Science in Software Engineering (Minor in Cybersecurity) from Iowa State University of Science and Technology.
+
+I am currently working at RSM doing Custom App Development Consulting on the D365 Application. RSM is a tax/audit/consulting firm.
+
+I am a huge music nerd (preferably anything from the 1980's and older), I play piano and guitar, and I enjoy tinkering with software and computers.
+
+If you want a list of projects that I have worked on and sites that I self-host, check out my [personal website](https://www.wyattduber.com).
+
+Check out my [Resume](https://resume.wyattduber.com) for more info on me and my accomplishments!
+
+---
