@@ -13,3 +13,10 @@ If you want a list of projects that I have worked on and sites that I self-host,
 Check out my [Resume](https://resume.wyattduber.com) for more info on me and my accomplishments!
 
 ---
+
+## GitHub Statistics
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
