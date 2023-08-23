@@ -15,8 +15,5 @@ Check out my [Resume](https://resume.wyattduber.com) for more info on me and my 
 ---
 
 ## GitHub Statistics
-<img src="https://raw.githubusercontent.com/DoubleYouCash/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="github-stats-1-dark" title="github-stats-1-dark" align="left" />
-<img src="https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="github-stats-1-light" title="github-stats-1-light" align="right" />
-
-<img src="https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="github-stats-2-dark" title="github-stats-2-dark" align="right" />
-<img src="https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="github-stats-2-light" title="github-stats-2-light" align="right" />
+![](https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/languages.svg#gh-light-mode-only)
