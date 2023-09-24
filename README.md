@@ -15,5 +15,5 @@ Check out my [Resume](https://resume.wyattduber.com) for more info on me and my 
 ---
 
 ## GitHub Statistics
-![](https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/doubleyoucash/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/wyattduber/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/wyattduber/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wyattduber/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/wyattduber/github-stats/master/generated/languages.svg#gh-light-mode-only)
