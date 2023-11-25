@@ -4,7 +4,7 @@
 
 My name is Wyatt Duberstein, and I am a Software Engineer with a Bachelors of Science in Software Engineering (Minor in Cybersecurity) from Iowa State University of Science and Technology.
 
-I am currently working at RSM doing Custom App Development Consulting on the D365 Application. RSM is a tax/audit/consulting firm.
+I am currently working at RSM doing Integration Development Consulting on a range of CRM and ERP systems. RSM is a tax/audit/consulting firm.
 
 I am a huge music nerd (preferably anything from the 1980's and older), I play piano and guitar, and I enjoy tinkering with software and computers.
 
