@@ -10,7 +10,7 @@ I am a huge music nerd (preferably anything from the 1980's and older), I play p
 
 If you want a list of projects that I have worked on and sites that I self-host, check out my [personal website](https://www.wyattduber.com).
 
-Check out my [Resume](https://resume.wyattduber.com) for more info on me and my accomplishments!
+Check out my [Resume](https://cloud.wyattduber.com/s/cxAcWP2cG2sqqFY) for more info on me and my accomplishments!
 
 ---
 
